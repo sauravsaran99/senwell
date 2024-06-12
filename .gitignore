@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Environment configuration files
+.env
+
+# Log files
+logs/
+*.log
+
+# Dependency directories
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npmrc
